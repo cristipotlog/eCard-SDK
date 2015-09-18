@@ -1,11 +1,9 @@
 # Known.Issues
 
-TerminalManagerFixer.cs
-
-Usage
+TerminalManagerFixer Usage
 -----
 After calling:
-	var sesiuneCard = ManagerSesiuniCard.StartSesiuneNoua( this.terminalName );
+	var sesiuneCard = ManagerSesiuniCard.StartSesiuneNoua();
 	
 You should call:
 	TerminalManagerFixer.FixUmOfflineStates( sesiuneCard );
