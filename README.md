@@ -1,3 +1,3 @@
 # eCard-SDK
 
-A collection of fixes for Novensys.eCard.SDK
+A collection of fixes and workarounds for Novensys.eCard.SDK
