@@ -18,11 +18,11 @@ SmartCardStatesFixer Usage
 --------------------------
 After calling:
 ```csharp
-	sesiuneCard.ActiveazaCard( sesiuneCard.Token );
+	var response = sesiuneCard.ActiveazaCard( sesiuneCard.Token );
 ```
 or after calling:
 ```csharp
-	sesiuneCard.CitesteDate( sesiuneCard.Token, ... );
+	var response = sesiuneCard.CitesteDate( sesiuneCard.Token, ... );
 ```
 You should call:
 ```csharp
